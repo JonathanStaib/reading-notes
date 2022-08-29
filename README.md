@@ -1,7 +1,7 @@
 # My Code Fellows Reading Notes!
 *My Reading Notes for Code 102*
 
-Hi my name is **Jonathan**! I like video games and anime and I collect funko pops (primarilly anime).
+Hi my name is <span style="color:blue">***Jonathan!***</span> I like video games and anime and I collect funko pops (primarilly anime).
 
 **3 Reminders to keep myself in the growth mindset:**
 
@@ -9,4 +9,6 @@ Hi my name is **Jonathan**! I like video games and anime and I collect funko pop
 - Don't stress yourself on not being able to solve a problem. Check google or Seek help!
 - Be open to learn! (learning to learn)
 
-Link to my github profile : [https://github.com/JonathanStaib](url)
+Link to my github profile : [https://github.com/JonathanStaib/reading-notes/](url)
+
+`#E6E6FA`
