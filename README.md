@@ -9,4 +9,4 @@ Hi my name is **Jonathan**! I like video games and anime and I collect funko pop
 - Don't stress yourself on not being able to solve a problem. Check google or Seek help!
 - Be open to learn! (learning to learn)
 
-Link to my github profile : https://github.com/JonathanStaib
+Link to my github profile : [https://github.com/JonathanStaib](url)
