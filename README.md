@@ -1,4 +1,4 @@
-# Reading-Notes
+# My Code Fellows Reading Notes!
 *My Reading Notes for Code 102*
 
 Hi my name is **Jonathan**! I like video games and anime and I collect funko pops (primarilly anime).
