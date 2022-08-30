@@ -101,5 +101,6 @@ All i was able to get done
 - Annotated tag is very important, Lightweight is a pointer
 - *git checkout -b "[branchname][tagname]"* to create new branch with tag
 - *git config --"global alias.br branch"* to set up aliases
+- once tracked with git its considered a repository
 - 
 
