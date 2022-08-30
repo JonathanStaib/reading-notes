@@ -1,5 +1,23 @@
 # Cheat Sheet for Reading
 
+## Reading 1 for markdown uses
+
+- multiple pounds the less important the header as seen above
+- lines for h1 h2
+- must have blank space after any symbol
+- no tabs or spces in front of paragraphs 
+- To create a line break or new line (<br>), end a line with two or more spaces, and then type return.
+-  **is bold** or __is bold__ use asterisks if its bolding a word in a sentence
+- italics is one * *italics*
+- ***bold and italicize***
+- first second third ... item for li1 li2 li3
+- list is what im doing now
+- look at reading for more
+- 
+
+
+## Reading 2
+
 All i was able to get done
 
 # Text Editor Slide
@@ -51,3 +69,37 @@ All i was able to get done
 # About filing
 
 - file obtain information about what type of file a file or directory is.
+
+## Reading 3 Seeing your remote
+
+- *git stash* command to hide a part but not lose it, *git stash apply* to unhide it
+- *git remote* to view all short names of remote handlers
+- *git remote -v* to view their urls
+- *git remote add "shortname" space url* to create to repository with shortname
+- dont understand fetching, ask! *git fetch [remote-name]*
+- *git push [remote-name][branch-name]* for pushing
+- *git remote rename old shortname then new shortname* (ex: js jn) to rename short name
+- *git remote rm "shortname"* to remove shortname
+- Dont understand commit changes, ASK! *git commit --amend* 
+- *git revert "HEAD"* to undo changes on new commit
+- *git checkout -- name* to to have a file return to previous state
+- *git branch test* to create new branch towards your most recent commmit and wont switch you over to the new branch
+- *git checkout* to switch to another branch
+- *git checkout -b test2* to create new branch and switch to it
+- *git branch* to list all branches
+-  *git checkout master* and then *git merge test* to seitch to master nad merge changes from tests to master
+- Ask about fast forward and three way merge confused
+- *git pull* to fetch and merge changes
+- *git branch -d test* to delete a branch
+- *git status to veiw unmerged files*
+- *git branch -v* to view latest commits
+- *git branch --merged* to see if they have been merged
+- *git branch --no-merged* to see which havent
+- *git checkout test* then seperately *git rebase master* to rebase 
+- *git log* to view committed cnapshots and this can be filtered in many ways, research if need
+- *git tag* with info after to flag certain points as important
+- Annotated tag is very important, Lightweight is a pointer
+- *git checkout -b "[branchname][tagname]"* to create new branch with tag
+- *git config --"global alias.br branch"* to set up aliases
+- 
+
