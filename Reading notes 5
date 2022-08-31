@@ -16,7 +16,9 @@
   can contain any CSS property
   - All the styles in a page will "cascade" into a new "virtual" style sheet by the following rules, where number one has the highest priority:
 
--This is order of importance and priorirty 
+-This is order of importance and priorirty
  1. Inline style (inside an HTML element)
  2. External and internal style sheets (in the head section)
  3. Browser default
+
+css-tricks.com/almanac for what you can change how you can change
