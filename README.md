@@ -1,13 +1,20 @@
-# My Code Fellows Reading Notes!
-*My Reading Notes for Code 102*
+# My Code Fellows Reading Notes'!'
 
-Hi my name is <span style="color:blue">***Jonathan!***</span> I like video games and anime and I collect funko pops (primarilly anime). I also much prefer html over markdown. :)
+## My Reading Notes for Code 102
 
-**3 Reminders to keep myself in the growth mindset:**
+### Table of Contents
 
-- Keep a positive outlook on your progress. Look at what you have achieved, not what you are struggling to!
-- Don't stress yourself on not being able to solve a problem. Check google or Seek help!
-- Be open to learn! (learning to learn)
+[Reading Notes 1](ReadingNotes1)
 
+[Reading Notes 2](ReadingNotes2)
+
+[Reading Notes 3](ReadingNotes3)
  
+[Reading Notes 4](ReadingNotes4)
+
+[Reading Notes 5](ReadingNotes5)
+
+[Reading Notes 6](ReadingNotes6)
+
+
 [Link to my github profile!](https://github.com/JonathanStaib/reading-notes)
