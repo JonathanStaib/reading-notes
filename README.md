@@ -16,5 +16,6 @@
 
 [Reading Notes 6](readingnotes6.md)
 
+[Reading Notes 7](ReadingNotes7.md)
 
 [Link to my github profile!](https://github.com/JonathanStaib/reading-notes)
