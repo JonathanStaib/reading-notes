@@ -1,4 +1,4 @@
-# Reading notes for Class 5
+# Reading notes for Class 6
 
 ## javascript
 
